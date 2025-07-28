@@ -1,0 +1,15 @@
+{
+  "name": "sntest",
+  "version": "1.0.0",
+  "description": "Soothing pastel theme for Standard Notes.",
+  "private": true,
+  "workspaces": [
+    "frappe",
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "publish": "echo 'See Standard Notes documentation for publishing.'"
+  },
+  "author": "ek0vv",
+  "license": "MIT"
+}
